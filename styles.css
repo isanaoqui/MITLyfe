@@ -1,8 +1,15 @@
 body {
-    font-family: arial;
-    background-color:lavender;
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;
+    padding: 10px;
 }
 
-h1 {
-    color: rgb(255,255,255);
+main {
+    border: 1px solid #665544;
+    background-color: #efefef;
+    padding: inherit;
+}
+
+p, nav, aside{
+    font-size: 75%;
 }
